@@ -2,3 +2,4 @@
 * development of toy game platform on esp32 risc-v microcontroller devices [🠲](https://github.com/calint/platformio-bam)
 * simple risc-v based microcontroller written in verilog for fpga cmod s7 [🠲](https://github.com/calint/riscv)
   - another rv32i for fpga tang nano 9k [🠲](https://github.com/calint/tang-nano-9k--riscv)
+  - and tang nano 20k [🠲](https://github.com/calint/tang-nano-20k--riscv)
