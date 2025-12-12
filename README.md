@@ -4,4 +4,4 @@
 * experiments with rust for bare metal rv32i fpga implementation [->](https://github.com/calint/rust_rv32i_os)
 * revisiting glos: a simple multiplayer game framework using sdl2 and opengl es3 [->](https://github.com/calint/glos)
 * development of toy game platform on esp32 risc-v microcontroller devices [->](https://github.com/calint/platformio-bam)
-* and finally 80's retro home computer commodore 64 bare metal assembler [->](https://github.com/calint/c64)
+* and finally 80's retro home computer commodore 64 bare metal assembler scroller [->](https://github.com/calint/c64)
