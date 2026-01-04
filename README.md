@@ -5,4 +5,4 @@
 * revisiting glos: a simple multiplayer game framework using sdl2 and opengl es3 [->](https://github.com/calint/glos)
 * development of toy game platform on esp32 risc-v microcontroller devices [->](https://github.com/calint/platformio-bam)
 * 80's retro home computer commodore 64 bare metal assembler miniature game [->](https://github.com/calint/c64)
-* and spectrum 48k [->](https://github.com/calint/spectrum48)
+* and zx spectrum 48k [->](https://github.com/calint/spectrum48)
