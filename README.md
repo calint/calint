@@ -6,4 +6,4 @@
 * development of toy game platform on esp32 risc-v microcontroller devices [->](https://github.com/calint/platformio-bam)
 * 80's retro home computer commodore 64 bare metal assembler miniature game [->](https://github.com/calint/c64)
 * and zx spectrum 48k [->](https://github.com/calint/spectrum48)
-* experiments with uefi bootable miniature x86_64 kernel utilizing all cores [->](https://github.com/calint/uefi-os)
+* experiments with uefi bootable miniature x86_64 kernel utilizing all cores for special-purpose [->](https://github.com/calint/uefi-os)
